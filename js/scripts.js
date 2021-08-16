@@ -19,7 +19,12 @@ $(document).ready(function() {
    console.log(myArr[1]);
    console.log(myArr[2]);
 
-  
+   $(".food").text(myArr[0]);
+   $(".color").text(myArr[1]);
+   $(".animal").text(myArr[2]);
+   $(".music").text(myArr[3]);
+   $(".icecream").text(myArr[4]);
+   $(".movie").text(myArr[5]);
 
     //let person2Arr = myArr.push($("input#person2").val());
     
