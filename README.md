@@ -20,4 +20,4 @@ This project is for my second independent project and does not have a license.
 \
 Copyright (c) 2021 Anelle M and Roman Kolivashko
 ## Contact
-Please contact me at 75595437+anmedev@users.noreply.github.com with any questions!
+Please contact me at rkolivashko@gmail.com with any questions!
